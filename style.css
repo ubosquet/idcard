@@ -1,0 +1,102 @@
+
+
+body {
+    background-color: #61a4bb;
+    margin-right: auto; 
+    margin-left: auto; 
+    width: 400px; 
+}
+
+img {
+   width: 90px;
+   height: 90px;
+   float: left;
+   
+}
+
+#idCard {
+   border: 5px solid black;
+   border-radius: 10%;
+   height: 14em;
+   width: 25em;
+   float: left;
+   background-color: pink;
+}
+
+#postAge {
+    float: left;
+}
+
+#mybtn {
+    border-radius: 4px;
+    margin-bottom: 100px;
+    margin-right: auto; 
+    margin-left: auto;
+    position: relative;
+    left: 25px; 
+    
+}
+
+#block-idcard{
+    margin-right: 0px; 
+    margin-left: 0px; 
+    font-family: 'Acme', sans-serif; 
+   
+}
+
+.form1{
+    margin-right: auto; 
+    margin-left: auto; 
+    width: 175px; 
+     
+}
+
+.form1 label {
+    text-align:center;
+    line-height:150%;
+    font-size:1em;
+
+}
+
+#postFullName{
+    
+    text-justify: auto;
+    text-decoration: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    
+}
+.info {
+    width: 350px;
+    float: left;
+    padding-left: 10px;
+    
+}
+#postPhoneNumber{
+    position: absolute;
+}
+
+#firstName-l{
+    position: relative;
+    left: 25px; 
+}
+
+#lastName-l{
+    position: relative;
+    left: 25px; 
+}
+
+#age-l{
+    position: relative;
+    left: 45px; 
+}
+
+#phone-num-l{
+    position: relative;
+    left: 15px; 
+}
+#address-l{
+    position: relative;
+    left: 35px; 
+}
